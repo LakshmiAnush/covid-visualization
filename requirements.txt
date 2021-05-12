@@ -1,0 +1,10 @@
+print_function
+pandas
+matplotlib
+plotly
+seaborn
+squarify
+ipywidgets
+folium
+voila-material
+voila
