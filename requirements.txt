@@ -6,4 +6,5 @@ seaborn
 squarify
 ipywidgets
 folium
+voila-material
 voila
